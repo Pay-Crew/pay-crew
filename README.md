@@ -9,7 +9,7 @@
 
 ## ドキュメント
 
-https://myxogastria0808.github.io/pay-crew/
+https://pay-crew.github.io/pay-crew/
 
 ## セットアップ
 
@@ -142,11 +142,11 @@ pnpm run backend:migrate
 #### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/frontend/README.md)
 - https://github.com/Myxogastria0808/pay-crew/tree/dev/products/frontend/README.md
 
-#### [Vitest UI Report](https://myxogastria0808.github.io/pay-crew/vitest/frontend/)
-- https://myxogastria0808.github.io/pay-crew/vitest/frontend/
+#### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/frontend/)
+- https://pay-crew.github.io/pay-crew/vitest/frontend/
 
-#### [Coverage Report](https://myxogastria0808.github.io/pay-crew/coverage/frontend/)
-- https://myxogastria0808.github.io/pay-crew/coverage/frontend/
+#### [Coverage Report](https://pay-crew.github.io/pay-crew/coverage/frontend/)
+- https://pay-crew.github.io/pay-crew/coverage/frontend/
 
 ### Backend (products/backend)
 
@@ -168,11 +168,11 @@ pnpm run backend:migrate
 #### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/backend/README.md)
 - https://github.com/Myxogastria0808/pay-crew/tree/dev/products/backend/README.md
 
-#### [Vitest UI Report](https://myxogastria0808.github.io/pay-crew/vitest/backend/)
-- https://myxogastria0808.github.io/pay-crew/vitest/backend/
+#### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/backend/)
+- https://pay-crew.github.io/pay-crew/vitest/backend/
 
-#### [Coverage Report](https://myxogastria0808.github.io/pay-crew/coverage/backend/)
-- https://myxogastria0808.github.io/pay-crew/coverage/backend/
+#### [Coverage Report](https://pay-crew.github.io/pay-crew/coverage/backend/)
+- https://pay-crew.github.io/pay-crew/coverage/backend/
 
 ### Validator (products/validator)
 
@@ -185,11 +185,11 @@ pnpm run backend:migrate
 #### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/validator/README.md)
 - https://github.com/Myxogastria0808/pay-crew/tree/dev/products/validator/README.md
 
-#### [Vitest UI Report](https://myxogastria0808.github.io/pay-crew/vitest/validator/)
-- https://myxogastria0808.github.io/pay-crew/vitest/validator/
+#### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/validator/)
+- https://pay-crew.github.io/pay-crew/vitest/validator/
 
-#### [Coverage Report](https://myxogastria0808.github.io/pay-crew/coverage/validator/)
-- https://myxogastria0808.github.io/pay-crew/coverage/validator/
+#### [Coverage Report](https://pay-crew.github.io/pay-crew/coverage/validator/)
+- https://pay-crew.github.io/pay-crew/coverage/validator/
 
 ### Notify (products/notify)
 
@@ -230,11 +230,11 @@ pnpm run backend:migrate
 #### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/setup/README.md)
 - https://github.com/Myxogastria0808/pay-crew/tree/dev/setup/README.md
 
-#### [Vitest UI Report](https://myxogastria0808.github.io/pay-crew/vitest/setup/)
-- https://myxogastria0808.github.io/pay-crew/vitest/setup/
+#### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/setup/)
+- https://pay-crew.github.io/pay-crew/vitest/setup/
 
-#### [Coverage Report](https://myxogastria0808.github.io/pay-crew/coverage/setup/)
-- https://myxogastria0808.github.io/pay-crew/coverage/setup/
+#### [Coverage Report](https://pay-crew.github.io/pay-crew/coverage/setup/)
+- https://pay-crew.github.io/pay-crew/coverage/setup/
 
 ## CI/CD
 
