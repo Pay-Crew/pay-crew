@@ -1,9 +1,9 @@
 # pay-crew
 
-[![Test](https://github.com/Myxogastria0808/pay-crew/actions/workflows/test.yaml/badge.svg)](https://github.com/Myxogastria0808/pay-crew/actions/workflows/test.yaml)
-[![Docs](https://github.com/Myxogastria0808/pay-crew/actions/workflows/docs.yaml/badge.svg)](https://github.com/Myxogastria0808/pay-crew/actions/workflows/docs.yaml)
-![GitHub Release](https://img.shields.io/github/v/release/Myxogastria0808/pay-crew)
-![GitHub License](https://img.shields.io/github/license/Myxogastria0808/pay-crew)
+[![Test](https://github.com/Pay-Crew/pay-crew2/actions/workflows/test.yaml/badge.svg)](https://github.com/Pay-Crew/pay-crew2/actions/workflows/test.yaml)
+[![Docs](https://github.com/Pay-Crew/pay-crew2/actions/workflows/docs.yaml/badge.svg)](https://github.com/Pay-Crew/pay-crew2/actions/workflows/docs.yaml)
+![GitHub Release](https://img.shields.io/github/v/release/Pay-Crew/pay-crew)
+![GitHub License](https://img.shields.io/github/license/Pay-Crew/pay-crew)
 ![Vitest](https://img.shields.io/badge/-vitest-6e9f18?style=flat&logo=vitest&logoColor=ffffff)
 [![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=fff)](#)
 
@@ -29,7 +29,7 @@ https://pay-crew.github.io/pay-crew/
 1. このレポジトリをクローン
 
 ```sh
-git clone https://github.com/Myxogastria0808/pay-crew.git
+git clone https://github.com/Pay-Crew/pay-crew.git
 cd pay-crew
 ```
 
@@ -136,11 +136,11 @@ pnpm run backend:migrate
 #### [Live Demo](https://pay-crew.yukiosada.work/)
 - https://pay-crew.yukiosada.work/
 
-#### [Source Code](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/frontend/)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/frontend/
+#### [Source Code](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/frontend/)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/frontend/
 
-#### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/frontend/README.md)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/frontend/README.md
+#### [Details](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/frontend/README.md)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/frontend/README.md
 
 #### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/frontend/)
 - https://pay-crew.github.io/pay-crew/vitest/frontend/
@@ -162,11 +162,11 @@ pnpm run backend:migrate
 #### [OpenAPI Spec](https://pay-crew-api.yukiosada.work/openapi)
 - https://pay-crew-api.yukiosada.work/openapi
 
-#### [Source Code](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/backend/)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/backend/
+#### [Source Code](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/backend/)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/backend/
 
-#### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/backend/README.md)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/backend/README.md
+#### [Details](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/backend/README.md)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/backend/README.md
 
 #### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/backend/)
 - https://pay-crew.github.io/pay-crew/vitest/backend/
@@ -179,11 +179,11 @@ pnpm run backend:migrate
 - TypeScript
 - Zod
 
-#### [Source Code](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/validator/)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/validator/
+#### [Source Code](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/validator/)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/validator/
 
-#### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/validator/README.md)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/validator/README.md
+#### [Details](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/validator/README.md)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/validator/README.md
 
 #### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/validator/)
 - https://pay-crew.github.io/pay-crew/vitest/validator/
@@ -197,11 +197,11 @@ pnpm run backend:migrate
 - Cloudflare Workers
 - Discord Webhook
 
-#### [Source Code](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/notify/)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/notify/
+#### [Source Code](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/notify/)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/notify/
 
-#### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/products/notify/README.md)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/products/notify/README.md
+#### [Details](https://github.com/Pay-Crew/pay-crew2/tree/dev/products/notify/README.md)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/products/notify/README.md
 
 ### Database
 
@@ -214,21 +214,21 @@ pnpm run backend:migrate
 
 - Astro
 
-#### [Docs](https://github.com/Myxogastria0808/pay-crew/tree/dev/docs/)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/docs/
+#### [Docs](https://github.com/Pay-Crew/pay-crew2/tree/dev/docs/)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/docs/
 
-#### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/docs/README.md)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/docs/README.md
+#### [Details](https://github.com/Pay-Crew/pay-crew2/tree/dev/docs/README.md)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/docs/README.md
 
 ### Setup (setup)
 
 - TypeScript
 
-#### [Source Code](https://github.com/Myxogastria0808/pay-crew/tree/dev/setup/)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/setup/
+#### [Source Code](https://github.com/Pay-Crew/pay-crew2/tree/dev/setup/)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/setup/
 
-#### [Details](https://github.com/Myxogastria0808/pay-crew/tree/dev/setup/README.md)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/setup/README.md
+#### [Details](https://github.com/Pay-Crew/pay-crew2/tree/dev/setup/README.md)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/setup/README.md
 
 #### [Vitest UI Report](https://pay-crew.github.io/pay-crew/vitest/setup/)
 - https://pay-crew.github.io/pay-crew/vitest/setup/
@@ -240,8 +240,8 @@ pnpm run backend:migrate
 
 - GitHub Actions with Nix
 
-#### [CI/CD](https://github.com/Myxogastria0808/pay-crew/tree/dev/.github/workflows/)
-- https://github.com/Myxogastria0808/pay-crew/tree/dev/.github/workflows/
+#### [CI/CD](https://github.com/Pay-Crew/pay-crew2/tree/dev/.github/workflows/)
+- https://github.com/Pay-Crew/pay-crew2/tree/dev/.github/workflows/
 
 ## テストツール
 
