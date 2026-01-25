@@ -19,8 +19,7 @@ export interface Env {
 
 export default {
   async scheduled(controller: ScheduledController, env: Env, ctx: ExecutionContext) {
-    const webhookUrl =
-      'https://discord.com/api/webhooks/1441344649863364608/vzOVqSEeNtjavKfq9MJaNoCB402dd_2W6J3BBr2nHFRngXEPaUm3r0IsvSs41ZIrSahz';
+    const webhookUrl = '';
 
     // DBのデータを取得
     const data: string = await reminder(env.API_URL);
@@ -31,17 +30,20 @@ export default {
       body: JSON.stringify({ content: data }),
     });
 
-    const webhookUrlTest = 'https://discord.com/api/webhooks/1442164725273071649/SVu-eSyDZJ2pwXHOUFALlm0D8GtoeWS1oZzmJJan-H65Y9p3I3_Zmd4ysZL7vBo4vU-p';
+    const webhookUrlTest = '';
 
-    const historyData = [{
-      to: "そぽたん",
-      from: "れん",
-      amount: 1000
-    }, {
-      to: "そぽたん",
-      from: "ひろと",
-      amount: 2000
-    }];
+    const historyData = [
+      {
+        to: 'そぽたん',
+        from: 'れん',
+        amount: 1000,
+      },
+      {
+        to: 'そぽたん',
+        from: 'ひろと',
+        amount: 2000,
+      },
+    ];
 
     const message = historyData.map((v) => `返金の流れ: ${v.to} -> ${v.from}\n\t金額: ${v.amount}\n`).join('\n');
 
